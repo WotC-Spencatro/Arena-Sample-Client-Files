@@ -1,2 +1,5 @@
-# Arena-Sample-Client-Files
-Advance copies of select client files, before they are released. (For folks who like to parse the MTG Arena logs and such). #WotCStaff
+# MTG Arena Advance Sample Client Files
+
+Advance sample client data files for MTG Arena (for those who like to parse logs).
+
+Obligatory #WotC_Staff
